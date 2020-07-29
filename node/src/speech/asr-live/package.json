@@ -1,0 +1,23 @@
+{
+  "name": "farsava-eou-javascript-asr-socket",
+  "version": "0.0.0",
+  "description": "Farsava ease of use - javascript - asr - socket",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "farsava",
+    "amerandish",
+    "javascript",
+    "nodejs",
+    "api",
+    "asr",
+    "socket"
+  ],
+  "author": "Amin Taghikhani <amin76taghikhani@gmail.com>",
+  "private": "true",
+  "dependencies": {
+    "ws": "^7.3.1"
+  }
+}

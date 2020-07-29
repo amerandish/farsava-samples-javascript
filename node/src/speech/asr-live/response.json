@@ -1,0 +1,62 @@
+{
+  "transcriptionId": "",
+  "duration": 6,
+  "inferenceTime": 0,
+  "status": "partial",
+  "partial": 9,
+  "results": [{
+      "transcript": "\u062e\u0648\u0628\u06cc\u0647\u0627 \u06cc\u0627 \u0631\u0627\u0647\u06cc \u0628\u0631\u0627\u06cc \u0631\u0633\u06cc\u062f\u0646 \u0628\u0647 \u0647\u0645\u0647 \u06cc \u062e\u0648\u0628\u06cc \u0647\u0627",
+      "confidence": 0.74,
+      "words": [{
+          "startTime": 0,
+          "endTime": 0,
+          "word": "\u062e\u0648\u0628\u06cc\u0647\u0627",
+          "confidence": 0.49
+      }, {
+          "startTime": 0,
+          "endTime": 0,
+          "word": "\u06cc\u0627",
+          "confidence": 0.76
+      }, {
+          "startTime": 0,
+          "endTime": 0,
+          "word": "\u0631\u0627\u0647\u06cc",
+          "confidence": 1.0
+      }, {
+          "startTime": 0,
+          "endTime": 0,
+          "word": "\u0628\u0631\u0627\u06cc",
+          "confidence": 1.0
+      }, {
+          "startTime": 0,
+          "endTime": 0,
+          "word": "\u0631\u0633\u06cc\u062f\u0646",
+          "confidence": 1.0
+      }, {
+          "startTime": 0,
+          "endTime": 0,
+          "word": "\u0628\u0647",
+          "confidence": 1.0
+      }, {
+          "startTime": 0,
+          "endTime": 0,
+          "word": "\u0647\u0645\u0647",
+          "confidence": 0.84
+      }, {
+          "startTime": 0,
+          "endTime": 0,
+          "word": "\u06cc",
+          "confidence": 0.53
+      }, {
+          "startTime": 0,
+          "endTime": 0,
+          "word": "\u062e\u0648\u0628\u06cc",
+          "confidence": 0.37
+      }, {
+          "startTime": 0,
+          "endTime": 0,
+          "word": "\u0647\u0627",
+          "confidence": 0.37
+      }]
+  }]
+}
