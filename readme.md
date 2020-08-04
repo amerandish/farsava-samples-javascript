@@ -1,4 +1,4 @@
 # Farsava - Api
 
-- [NodeJs Implementation](/node/readme.md)
-- [Javascript(browser) Implementation]()
+- [x] [NodeJs Implementation](/node/readme.md)
+- [ ] [Javascript(browser) Implementation]()
